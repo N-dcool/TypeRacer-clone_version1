@@ -2,7 +2,7 @@
 Created with CodeSandbox (With the help of ChatGPT 🔥)
 
 <a href="https://github.com/Nareshchoudhary02"><img align="center" width="100%" src="https://i.ibb.co/jy4WmvD/Screenshot-2022-12-30-at-3-10-55-PM.png" alt="leetcode" border="0"></a>
-<h4 align="center"> 🧑🏻‍💻 JAVA </h4>
+<h4 align="center"> 🧑🏻‍💻 React JS </h4>
 
 ## 🤓 Author 
 <table>
